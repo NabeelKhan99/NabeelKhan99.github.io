@@ -1,0 +1,35 @@
+
+---
+
+## 🚀 Deployment
+
+To deploy this project:
+
+1. Upload all files to a PHP-compatible web server (like Apache or Nginx with PHP).
+2. Ensure the `includes/` folder and `wp-content/` are properly structured.
+3. Make sure PHP is installed and the server is configured to serve `.php` files.
+4. Optionally, configure `.htaccess` for clean URLs or redirects.
+
+> ⚠️ Netlify does **not support PHP** natively. Consider using [Render](https://render.com), [000webhost](https://www.000webhost.com/), or traditional cPanel hosting instead.
+
+---
+
+## ✍️ Customization
+
+- You can modify the content in the PHP page (e.g., `home.php`) or the included files under `includes/`.
+- Images, slider settings, and Elementor content can be customized via the WordPress interface (if integrated), or directly in the HTML.
+
+---
+
+## 📢 About CIBEDTECH
+
+> *“We are expanding your career opportunities in the IT industry. CIBED TECH is a consultancy and information technology training services provider that allows professionals to learn in-demand skills that can give them an edge in the growing IT industry.”*
+
+---
+
+## 📬 Contact
+
+If you'd like to contribute, suggest features, or have questions, feel free to open an issue or reach out to the team.
+
+---
+
